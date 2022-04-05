@@ -89,11 +89,11 @@ With the advancement of technology and the increasing focus on the quality of us
 
 1. Navigate to the `Local and Outbound Authentication Configuration` section of the registered Service Provider.
 
-<img width="621" alt="Outbound auth config" src="https://user-images.githubusercontent.com/64022205/161667848-ebd5334d-1df8-4cea-bb30-07cf6c7309dd.PNG">
+![Outbound auth config](https://user-images.githubusercontent.com/64022205/161667848-ebd5334d-1df8-4cea-bb30-07cf6c7309dd.PNG)
 
 2. Go to `Advanced Configuration` and set up the authentication flow as below.
 
-<img width="621" alt="Outbound auth config" src="https://user-images.githubusercontent.com/64022205/161667993-47666a90-ccd0-4db2-8fd8-e866c168ada0.PNG">
+![Outbound auth config](https://user-images.githubusercontent.com/64022205/161667993-47666a90-ccd0-4db2-8fd8-e866c168ada0.PNG)
 
 3. Once the configuration is done, make sure to click the `Update` button to save the changes.
 
